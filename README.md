@@ -1,5 +1,5 @@
 # json-server
-Demo of the JSON server for fake JSON data
+Demonstração do servidor JSON para dados JSON falsos
 
 We can use this url: http://jsonplaceholder.typicode.com/
 

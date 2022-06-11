@@ -3,7 +3,7 @@ Demonstração do servidor JSON para dados JSON falsos
 
 Podemos usar esta URL: http://jsonplaceholder.typicode.com/
 
-OR... make this server to do locally.
+OU... faça este servidor fazer localmente
 
 Following tutorial video: https://www.youtube.com/watch?v=1zkgdLZEdwM
 

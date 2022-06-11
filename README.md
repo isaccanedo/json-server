@@ -5,7 +5,7 @@ Podemos usar esta URL: http://jsonplaceholder.typicode.com/
 
 OU... faça este servidor fazer localmente
 
-Following tutorial video: https://www.youtube.com/watch?v=1zkgdLZEdwM
+Seguindo vídeo tutorial: https://www.youtube.com/watch?v=1zkgdLZEdwM
 
 ### Basic install start
 
